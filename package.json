@@ -1,0 +1,13 @@
+{
+    "name": "Sample-Application",
+    "version": "0.0.1",
+    "main": "server.js",
+    "scripts": {
+        "start": "node ./server.js"
+  },
+    "dependencies": {
+        "express": "~4.0.0",
+        "body-parser": "~1.0.1",
+        "purify-css": "~1.0.17"
+    }
+}
